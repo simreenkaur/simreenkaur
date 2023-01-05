@@ -1,4 +1,4 @@
-### Hi! 👋🏻 Welcome to the Github of Simreen Kaur
+### 👋🏻 Welcome to the Github of Simreen Kaur
 
 🎯 I'm actively looking for New Grad Full-Time Software Development/ Full Stack Development roles.
 👩🏻‍🎓 I'm a BS Comp Sci student at the University of Nebraska - Lincoln.
